@@ -116,6 +116,10 @@ A: Tak! Po refaktoryzacji nie będą potrzebne. Ale `get_bot("Troll", "Twitter")
 
 A: Zostaw go. Boty są nieprzewidywalne, tak jak prawdziwe.
 
+**Q: Czy możemy pisać w Javie?**
+
+A: Nie.
+
 ---
 
 *"Jedyną rzeczą gorszą od eksplozji klas jest eksplozja prawdziwych botów w internecie"* - Wojciech Cejrowski (prawdopodobnie)
