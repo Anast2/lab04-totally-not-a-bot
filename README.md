@@ -1,7 +1,7 @@
 # Lab 05: Bot Simulator Strikes Back
 
 ## Czy wiesz, że...
-Według badań amerykańskich naukowców, 87% studentów po zaimplementowaniu Bridge odkrywa, że testy się nie kompilują. Pozostałe 13% jeszcze nie uruchomiło testów.
+Według badań amerykańskich naukowców, 87% studentów po zaimplementowaniu Bridge odkrywa, że testy nie działają. Pozostałe 45% jeszcze nie uruchomiło testów.
 
 ## Twoje zadanie
 Tydzień temu zrobiliście piękny Bridge Pattern. 8 klas zamiast 16. Elegancja, Francja, czystość, profesjonalizm.
